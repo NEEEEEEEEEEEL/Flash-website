@@ -1,0 +1,3 @@
+install flask in cmd
+install flask-login
+install flask-sqlalchemy
